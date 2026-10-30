@@ -10,3 +10,4 @@ export const fetchGitHubUser = (username: string) => {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     return apiClient.get<any>(`/users/${username}`);
 }
+

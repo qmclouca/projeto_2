@@ -1,6 +1,8 @@
 # Logs
-logs
+_cacache
+_logs
 *.log
+*.txt
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
